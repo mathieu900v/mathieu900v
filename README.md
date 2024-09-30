@@ -2,5 +2,5 @@
 
 🌲 I'm a French Fullstack and IOT developer  
 ✨ Worked on several languages and frameworks  
-⚡ Always looking for remote opportunities  
+⚡ Currently working for Leedpulse  
 📫 You can reach me at perso@mathieuv.pro
